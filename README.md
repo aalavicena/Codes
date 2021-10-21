@@ -1,4 +1,6 @@
 # Overview
+THIS IS A UNIVERSITY PROJECT.
+
 This model is based on Papia Nandi's codes in Towards Data Science on Medium. Link: https://towardsdatascience.com/cnns-for-audio-classification-6244954665ab
 The dataset for this project is warblr10k from Bird Presence dataset available on Kaggle. See here: https://www.kaggle.com/christofhenkel/bird-presence
 The dataset contains 3 parameters: itemid (filename), datasetid (dataset), and hasbird (bird yes or bird no indicated by 1 and 0, respectively). See the .csv metadata file for more info. 
